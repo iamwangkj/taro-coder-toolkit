@@ -1,7 +1,8 @@
 export default {
   pages: [
     'pages/index/index',
-    'pages/login/login'
+    'pages/login/login',
+    'pages/githubSearch/githubSearch'
   ],
   window: {
     backgroundTextStyle: 'light',
