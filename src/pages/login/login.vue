@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import openApi from '../../lib/openApi'
+import openApi from '../../taroApi/openApi'
 import Taro from '@tarojs/taro'
 
 export default {

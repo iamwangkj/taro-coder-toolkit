@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import toast from '../../lib/toast'
+import toast from '../../taroApi/toast'
 
 export default {
   name: 'Index',
